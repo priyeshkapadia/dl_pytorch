@@ -133,3 +133,4 @@ train/
 test/
 val/
 pluralsight/datasets/
+packt/Hands_on_GNN_Using_Python/ml-100k/*
